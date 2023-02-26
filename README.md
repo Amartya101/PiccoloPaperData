@@ -2,7 +2,7 @@
 
 This repository contains the scripts used to analyze the data sets explored in the Piccolo paper. All the data sets (in 10X format) are available on [Dropbox](https://www.dropbox.com/sh/9vr7hn4g6sndgr2/AAAWj5IU5aqgzoYREIaIl4HYa?dl=0).
 
-## List of data dets with links to the primary sources from where they were obtained:
+## List of data dets with links to the primary sources from where they were downloaded:
 * Svensson 1 - Technical Control Data ([Link](https://data.caltech.edu/records/1264))
 * Klein 2015 - Technical Control Data ([Link](https://data.caltech.edu/records/1264))
 * NIH/3T3 ([Link](https://data.caltech.edu/records/1264))
@@ -22,6 +22,3 @@ This repository contains the scripts used to analyze the data sets explored in t
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-* [Khiabanian Lab](https://khiabanian-lab.org)
