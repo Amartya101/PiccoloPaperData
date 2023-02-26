@@ -1,6 +1,6 @@
 # PiccoloPaperDataAndScripts
 
-This repository contains the scripts used to analyze the data sets explored in the Piccolo paper. All the data sets (in 10X format) are available on [Dropbox](https://www.dropbox.com/sh/9vr7hn4g6sndgr2/AAAWj5IU5aqgzoYREIaIl4HYa?dl=0)
+This repository contains the scripts used to analyze the data sets explored in the Piccolo paper. All the data sets (in 10X format) are available on [Dropbox](https://www.dropbox.com/sh/9vr7hn4g6sndgr2/AAAWj5IU5aqgzoYREIaIl4HYa?dl=0).
 
 ## List of Data Sets (With links to primary sources):
 
