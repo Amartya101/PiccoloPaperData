@@ -1,6 +1,6 @@
 # PiccoloPaperData
 
-This repository contains basic information about the data sets explored in the Piccolo paper. All the data sets (in 10X format) are available on [Dropbox](https://www.dropbox.com/sh/9vr7hn4g6sndgr2/AAAWj5IU5aqgzoYREIaIl4HYa?dl=0).
+This repository contains basic information about the data sets explored in the Piccolo paper. All the data sets (in 10X format) are available for download [here](https://www.dropbox.com/sh/9vr7hn4g6sndgr2/AAAWj5IU5aqgzoYREIaIl4HYa?dl=0).
 
 ## List of data dets with links to the primary sources from where they were downloaded:
 * Svensson 1 - Technical Control Data ([Link](https://data.caltech.edu/records/1264))
